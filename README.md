@@ -6,7 +6,7 @@
 <p align="center">
   🚀 Passionate about integrating AI/ML into real-world scenarios <br>
   🎓 B.Tech student specializing in AI/ML <br>
-  💼 Intern at Tata Steel & Celebal Technologies <br>
+  💼 Intern at Tata Steel & Celebal Technologies <br>https://github.com/Shyam-Singh-Bhargaw/Shyam-Singh-Bhargaw/blob/main/README.md
   🌟 Ready to drive tech industry progress with enthusiasm
 </p>
 
