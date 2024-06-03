@@ -6,7 +6,7 @@
 
   
 
-<h4 align="left">Experienced in:</h4>
+<h3 align="left">Experienced in:</h3>
 <ul>
   <li>Bringing web applications to life as a Web Developer Intern at Tata Steel</li>
   <li>Exploring the depths of data as a Data Science Intern at Celebal Technologies' COE program</li>
