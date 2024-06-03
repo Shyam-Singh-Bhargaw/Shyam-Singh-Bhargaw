@@ -13,6 +13,7 @@
 </ul>
 <h5 >Driven by the passion to unite these realms and propel the tech industry forward, </br>
   I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5>
+  <hr>   
 
 
 
