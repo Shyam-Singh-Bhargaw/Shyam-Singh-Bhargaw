@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate software developer and AI/ML enthusiast from India</h3>
 <h5>I’m a dedicated B.Tech student specializing in AI and ML, with hands-on experience as a Web Developer Intern at Tata Steel and currently interning as a Data Science Intern at Celebal Technologies' COE program. Passionate about integrating these fields to drive tech industry progress, I’m eager to apply my academic knowledge to real-world scenarios and bring my skills and enthusiasm to your company.</h5> -->
 
-h3 align="center">A dedicated B.Tech student specializing in:</h3>
+<h3 align="center">A dedicated B.Tech student specializing in:</h3>
 <ul>
   <li>AI/ML</li>
   <li>Web Development</li>
