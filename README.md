@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shyam Singh</h1>
-<h3 align="center">A passionate software developer and AI/ML enthusiast from India. I’m a dedicated B.Tech student specializing in AI and ML, with hands-on experience in both Web Development and Data Science. Currently interning as a Data Science Intern at Celebal Technologies' COE program and previously worked as a Web Developer Intern at Tata Steel. I'm passionate about integrating these fields to drive tech industry progress and eager to apply my academic knowledge to real-world scenarios.</h3>
+<h3 align="center">A passionate software developer and AI/ML enthusiast from India</h3>
+
+<p align="center">
+  <span style="font-size: smaller;">I’m a dedicated B.Tech student specializing in AI and ML, with hands-on experience in both Web Development and Data Science. Currently interning as a Data Science Intern at Celebal Technologies' COE program and previously worked as a Web Developer Intern at Tata Steel. I'm passionate about integrating these fields to drive tech industry progress and eager to apply my academic knowledge to real-world scenarios.</span>
+</p>
 
 - 🔭 I’m currently working on **Data Science Intern at Celebal Technologies' COE program**
 
