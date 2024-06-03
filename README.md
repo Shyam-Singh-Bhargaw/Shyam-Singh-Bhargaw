@@ -11,9 +11,13 @@
   <li>Bringing web applications to life as a Web Developer Intern at Tata Steel</li>
   <li>Exploring the depths of data as a Data Science Intern at Celebal Technologies' COE program</li>
 </ul>
-<h5 >Driven by the passion to unite these realms and propel the tech industry forward, </br>
-  I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5>
-  <hr>   
+<!-- <h5 >Driven by the passion to unite these realms and propel the tech industry forward, </br>
+  I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5> -->
+
+  <h5 align="center">Driven by the passion to unite these realms and propel the tech industry forward, I bring a wealth of experience and an insatiable curiosity to every project I undertake.</h5>
+<h5 align="center">With a firm grasp on the intricacies of AI/ML and the artistry of web development, I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5>
+<hr>
+   
 
 
 
