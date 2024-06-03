@@ -1,39 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Shyam Singh</h1>
+<h3 align="center">A passionate software developer and AI/ML enthusiast from India</h3>
 
-###
+<p align="center">
+  I’m a dedicated B.Tech student specializing in AI and ML, with hands-on experience as a Web Developer Intern at Tata Steel and currently interning as a Data Science Intern at Celebal Technologies' COE program. Passionate about integrating these fields to drive tech industry progress, I’m eager to apply my academic knowledge to real-world scenarios and bring my skills and enthusiasm to your company.
+</p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+- 🔭 I’m currently working on **Data Science Intern at Celebal Technologies' COE program**
+- 🌱 I’m currently learning **Advanced Machine Learning techniques, React and modern JavaScript frameworks, Data Science methodologies**
+- 👯 I’m looking to collaborate on **AI/ML projects, Full-stack development projects**
+- 🤝 I’m looking for help with **Advanced machine learning algorithms, Scalable web applications**
+- 💬 Ask me about **AI and Machine Learning, Full-stack development**
+- 📫 How to reach me **theshyamsingh11@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/shyam-singh-427744221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shyam-singh-427744221" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/25178246/shyam-singh?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/25178246/shyam-singh" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/shyamsinghbharg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shyamsinghbharg1" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/theshyamsingh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/theshyamsingh11/" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/shyamsingh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shyamsingh11" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/theshyamsingh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/theshyamsingh11/" height="30" width="40" /></a>
+  <a href="https://medium.com/@theshyamsingh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theshyamsingh11" height="30" width="40" /></a>
+</p>
 
-<h2 align="left">About me</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <!-- Other icons for languages and tools -->
+</p>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam-singh-bhargaw&show_icons=true&locale=en&layout=compact" alt="shyam-singh-bhargaw" /></p>
