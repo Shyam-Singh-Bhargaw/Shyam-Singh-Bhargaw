@@ -2,17 +2,17 @@
 <!-- <h3 align="center">A passionate software developer and AI/ML enthusiast from India</h3>
 <h5>I’m a dedicated B.Tech student specializing in AI and ML, with hands-on experience as a Web Developer Intern at Tata Steel and currently interning as a Data Science Intern at Celebal Technologies' COE program. Passionate about integrating these fields to drive tech industry progress, I’m eager to apply my academic knowledge to real-world scenarios and bring my skills and enthusiasm to your company.</h5> -->
 
-<h3 align="center">A dedicated B.Tech student specializing in:</h3>
+<h3 align="center">A dedicated B.Tech student specializing in:  AI & ML  , Web Development</h3>
+
+  
+
+<h4 align="center">Experienced in:</h4>
 <ul>
-  <li>AI/ML</li>
-  <li>Web Development</li>
+  <li>Bringing web applications to life as a Web Developer Intern at Tata Steel</li>
+  <li>Exploring the depths of data as a Data Science Intern at Celebal Technologies' COE program</li>
 </ul>
-<h4 align="center">With hands-on experience:</h4>
-<ul>
-  <li>Web Developer Intern at Tata Steel</li>
-  <li>Currently interning as a Data Science Intern at Celebal Technologies' COE program</li>
-</ul>
-<h4 align="center">Passionate about integrating these fields to drive tech industry progress, I’m eager to apply my academic knowledge to real-world scenarios and bring my skills and enthusiasm to your company.</h4>
+<h5 align="center">Driven by the passion to unite these realms and propel the tech industry forward, I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5>
+
 
 
 - 🔭 I’m currently working on **Data Science Intern at Celebal Technologies' COE program**
