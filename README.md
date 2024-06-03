@@ -14,8 +14,8 @@
 <!-- <h5 >Driven by the passion to unite these realms and propel the tech industry forward, </br>
   I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5> -->
 
-<h5 align="left"><li>Fueled by an unwavering passion to bridge technological realms, I bring a wealth of hands-on experience and insatiable curiosity to every project, ensuring innovation at every turn.</li></h5>
-<h5 align="left"><li>With a comprehensive mastery of AI/ML and the finesse of web development artistry, I stand ready to infuse cutting-edge solutions into real-world challenges, propelling your company to new heights of success.</li></h5>
+<h5 align="left"><li>Fueled by an unwavering passion to bridge technological realms, I bring a wealth of hands-on experience and insatiable curiosity to every project, ensuring        innovation at every turn.</li></h5>
+<h5 align="left"><li>With a comprehensive mastery of AI/ML and the finesse of web development artistry, I stand ready to infuse cutting-edge solutions into real-world         challenges, propelling your company to new heights of success.</li></h5>
 <hr>
 
 
