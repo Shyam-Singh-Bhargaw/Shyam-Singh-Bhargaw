@@ -14,8 +14,8 @@
 <!-- <h5 >Driven by the passion to unite these realms and propel the tech industry forward, </br>
   I’m poised to infuse real-world solutions with my academic expertise and fervor at your company.</h5> -->
 
-<h5 align="center">Driven by passion to unite realms, I bring experience and curiosity to every project.</h5>
-<h5 align="center">With firm grasp on AI/ML and artistry of web development, I’m poised to infuse real-world solutions.</h5>
+<h5 align="left">Driven by passion to unite realms, I bring experience and curiosity to every project.</h5>
+<h5 align="left">With firm grasp on AI/ML and artistry of web development, I’m poised to infuse real-world solutions.</h5>
 <hr>
 
 
