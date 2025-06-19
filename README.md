@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam Singh</h1>
+<h1 align="center">Hi 👋, I'm Shyaam Singhh</h1>
 
 <h3 align="center">A dedicated B.Tech student specializing in: AI & ML, Data Science, and Web Development</h3>
 
